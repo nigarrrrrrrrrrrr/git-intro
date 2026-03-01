@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hello from Main
-=======
-Hello from Feature Branch
->>>>>>> feature-greeting
